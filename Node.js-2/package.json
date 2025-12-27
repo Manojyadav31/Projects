@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-assignment2",
+  "version": "1.0.0",
+  "description": "Node.js Assignment 2 - HTTP Server Exercises",
+  "main": "exercise1.js",
+  "scripts": {
+    "start1": "node exercise1.js",
+    "start2": "node exercise2.js",
+    "start3": "node exercise3.js",
+    "start4": "node exercise4.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
